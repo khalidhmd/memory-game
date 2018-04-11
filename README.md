@@ -7,6 +7,7 @@
 * [HTML changes](#htmlchanges)
 * [CSS Changes](#csschanges)
 * [JavaScript changes](#jschanges)
+* [Dependencies](#dependencies)
 
 ## Instructions
 
@@ -48,3 +49,17 @@ All my work falls in the JavaScript file. I created many new functions as descri
 `restartGame()` this function performs initializations to start a new game.
 
 `resetStars()` this finction resets the star indicator on the HTML upon restart button click or upon user response to modal with 'ok'.
+
+## dependencies
+
+This project uses the following resource files:
+
+[https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css] (https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css)
+
+[https://fonts.googleapis.com/css?family=Coda] (https://fonts.googleapis.com/css?family=Coda)
+
+Local files:
+
+[app.js] (app.js)
+
+[app.css] (app.css)
